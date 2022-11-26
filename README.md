@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
-<h3 align="center">A curious Site Reliability Engineering.</h3>
+<h3 align="center">A curious Site Reliability Engineering from Stockholm.</h3>
 
 - 🔭 I’m currently working at **Klarna**
 
